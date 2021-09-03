@@ -41,3 +41,5 @@ for customer in range(1,51) :
 #     else :
 #         print("[ ] {0}번째 손님 (소요시간 : {1}분".format(i,time))
 # print("총 탑승 승객 : {0}분".format(cnt))
+
+#내가 부족한게 for문이 반복해서 for문안에 for문이 가능한가?
