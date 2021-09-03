@@ -18,3 +18,4 @@ n = int(input("인사를 몇번할까요?: "))
 for i in range(n) :
     print("안녕하세요")
     
+#깃허브 이용하기
